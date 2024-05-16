@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">✨ Creating bugs since born<br>📚 I'm currently Learning on Machine Learning<br>🎯 Goals: <br>1. Master AI/Machine Learning <br> 2. Competitive Programming<br> 3.Building a strong Network<br>🎲 </p>Fun fact: My GitHub profile resembles a multi-language code playground! Like Python, it's dynamic and expressive; like C++, it's powerful and performance-oriented; and like C#, it's versatile and efficient.</p>
+<p align="left">✨ Creating bugs since born<br>📚 I'm currently Learning on Machine Learning<br>🎯 Goals: <br>1. Master AI/Machine Learning <br> 2. Competitive Programming<br> 3.Building a strong Network<br></p>🎲 Fun fact: My GitHub profile resembles a multi-language code playground! Like Python, it's dynamic and expressive; like C++, it's powerful and performance-oriented; and like C#, it's versatile and efficient.</p>
 
 ###
 
