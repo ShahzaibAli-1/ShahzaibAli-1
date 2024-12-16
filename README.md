@@ -1,74 +1,59 @@
+<h1 align="center">Hi 👋, I'm Shahzaib Ali</h1>
+<h3 align="center">AI/ML Student | Aspiring Developer | Tech Enthusiast</h3>
+
+<img align="right" alt="coding" width="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShahzaibAli-1&label=Profile%20views&color=0e75b6&style=flat" alt="ShahzaibAli-1" /> </p>
+
+- 🎉 **A Student of Artificial Intelligence**
+
+- 📚 Currently pursuing **Bachelor's in AI**
+- 🧠 Exploring Digital Realm With a Curious Mind
+- 🎯 **Goals:**
+  - Master AI/Machine Learning
+  - Develop innovative solutions
+  - Build a strong professional network
 
 
-<!--
-**Gamer997/Gamer997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📧 Reach me at **sa7979798@gmail.com**
 
-Here are some ideas to get you started:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/your_twitter_handle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shahzaib-ali-64511224b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/shahzaibali1121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100027147891995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+<a href="https://www.instagram.com/shahzaibali0798/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="left">Hey 👋 What's up?</h1>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="flask" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="background-color:white; padding:5px;"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+</p>
 
-###
-
-<p align="left">My name is Shahzaib Ali and I'm a Ai/ML Student </p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Exploring Digital Realm with curious mind<br>📚 I'm currently Learning on Machine Learning<br>🎯 Goals: <br>1. Master AI/Machine Learning <br> 2. Competitive Programming<br> 3.Building a strong Network<br></p>🎲 Fun fact: My GitHub profile resembles a multi-language code playground! Like Python, it's dynamic and expressive; like C++, it's powerful and performance-oriented; and like C#, it's versatile and efficient.</p>
-
-###
-
-<h2 align="left">Languages and Tools</h2>
-
-###
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShahzaibAli-1&show_icons=true&locale=en" alt="ShahzaibAli-1" /></p>
+<h3 align="left">Languages Used:</h3>
+<p align="center">
 
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahzaibAli-1&layout=compact&langs_count=10&hide=jupyter%20notebook&theme=radical" />
 
-
-<div align="left">
-  <img src="https://github.com/Gamer997/Gamer997/assets/98121819/2d5cf34b-8e4d-49c4-866a-e8b25ec7ddd3" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://github.com/Gamer997/Gamer997/assets/98121819/e6ea6f9e-1ec5-4c17-b6fb-d78d8d35e583" height="40" alt="modules python logo"  />
-  <img width="12" />
-
-
-
-
-  <img src="https://github.com/Gamer997/Gamer997/assets/98121819/47b13f73-b67c-4084-8969-6ea2ee2acd6e" height="40" alt="tensorFlow logo"  />
-  <img width="12" />
-  <img src="https://github.com/Gamer997/Gamer997/assets/98121819/6891f25c-0a6c-4fb5-9c2a-f7b58b838b0e" height="40" alt="cv2"  />
-  <img width="12" />
-
-
-
-  <img src="https://github.com/Gamer997/Gamer997/assets/98121819/225f0cb9-d6ed-4f50-aa1a-b455dfb37a76" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://github.com/Gamer997/Gamer997/assets/98121819/a8aa8efb-0103-45af-8cbb-554add79bb14" height="40" alt="flask logo"  />
-  <img width="12" />
-
-  <img src="https://github.com/Gamer997/Gamer997/assets/98121819/4574e09f-8b50-4d8a-ba69-028851ff5aed" height="40" alt="HTML/CSS logo"  />
-</div>
 <br>
+<br>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahzaibAli-1&layout=compact&langs_count=10&exclude_repo=repo1,repo2&theme=radical" />
 
+</p>
 
-
-  <img src="https://github.com/Gamer997/Gamer997/assets/98121819/2f79dd7e-b300-4659-be7b-862e7d7923c8" height="40" alt="js logo"  />
-</div>
-  <img src="https://github.com/Gamer997/Gamer997/assets/98121819/33a661a0-5ba5-4c21-b37b-451b97ee6f53" height="40" alt="c++ logo"  />
-</div>
-
-  <img src="https://github.com/Gamer997/Gamer997/assets/98121819/7a341d53-5123-4c0d-8ef0-11ef13c8caed" height="40" alt="c# logo"  />
-</div>
