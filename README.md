@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Welcome to My Digital Universe
+# Exploring Digital Realm with curious mind
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Shahzaib+Ali+%F0%9F%9A%80;AI+Enthusiast+%7C+Machine+Learning+Explorer;Building+the+Future+with+Code+%F0%9F%92%BB;Turning+Data+into+Intelligence+%F0%9F%A7%A0" alt="Typing SVG" />
 
@@ -30,7 +30,7 @@ class ShahzaibAli:
         self.username = "ShahzaibAli-1"
         self.role = "AI Engineer"
         self.location = "Pakistan"
-        self.interests = ["Machine Learning", "Deep Learning", "Computer Vision", "AI Automation"]
+        self.areaOfInterest = ["Machine Learning", "Deep Learning", "Computer Vision", "AI Automation"]
         self.current_focus = "Building intelligent systems and automated workflows"
         
     def say_hi(self):
