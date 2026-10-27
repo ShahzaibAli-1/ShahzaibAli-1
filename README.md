@@ -17,33 +17,33 @@
 
 ---
 
-## 👋 About
+## About
 
 I'm an **AI Engineer** who takes models from notebook to production. My work covers **speech AI (STT / TTS)**, **LLM fine-tuning**, **RAG systems**, and **agentic automation**, with real-world use in healthcare, legal, and conversational AI.
 
 | | |
 |---|---|
-| 🎯 **Focus** | Real-time voice agents, medical-domain LLMs, multilingual speech |
-| 🌍 **Languages I build for** | Arabic, English, Urdu, Hindi |
-| 🎓 **Studying** | BS in Artificial Intelligence, FAST-NUCES Islamabad |
-| 📍 **Location** | Islamabad, Pakistan |
-| 📫 **Reach me** | [sa7979798@gmail.com](mailto:sa7979798@gmail.com) |
+| **Focus** | Real-time voice agents, medical-domain LLMs, multilingual speech |
+| **Languages I build for** | Arabic, English, Urdu, Hindi |
+| **Education** | BS in Artificial Intelligence, FAST-NUCES Islamabad |
+| **Location** | Islamabad, Pakistan |
+| **Reach me** | [sa7979798@gmail.com](mailto:sa7979798@gmail.com) |
 
 ---
 
-## ⚡ What I Do
+## What I Do
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎙️ Speech & Voice AI
+### Speech & Voice AI
 Fine-tuning multilingual **STT and TTS** models, and building full speech pipelines: VAD, speaker diarization, transcription, LLM response and neural synthesis. This includes real-time streaming, interruption handling, and voice agents that hold **2–3 hour conversations** with memory.
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 LLM Fine-tuning
+### LLM Fine-tuning
 Domain-specific and **multilingual LLMs** (Arabic, English, Urdu, Hindi), including models that generate **SOAP medical notes at 91% accuracy**. Hands-on with Flan-T5, Mistral and Qwen.
 
 </td>
@@ -51,13 +51,13 @@ Domain-specific and **multilingual LLMs** (Arabic, English, Urdu, Hindi), includ
 <tr>
 <td valign="top">
 
-### 📚 RAG & Agents
+### RAG & Agents
 Retrieval pipelines with embeddings and vector databases, plus multi-agent workflows with memory, tool calling and intent recognition.
 
 </td>
 <td valign="top">
 
-### 🤖 Automation & Deployment
+### Automation & Deployment
 Workflow automation with n8n, Make and Zapier, and production serving with **FastAPI, Docker, GPU inference and AWS**.
 
 </td>
@@ -66,11 +66,11 @@ Workflow automation with n8n, Make and Zapier, and production serving with **Fas
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <table>
 <tr>
-<td width="170"><b>🧠 AI / ML</b></td>
+<td width="170"><b>AI / ML</b></td>
 <td>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
@@ -84,7 +84,7 @@ Workflow automation with n8n, Make and Zapier, and production serving with **Fas
 </td>
 </tr>
 <tr>
-<td><b>🎙️ Speech & Voice</b></td>
+<td><b>Speech & Voice</b></td>
 <td>
 <img src="https://img.shields.io/badge/STT-Fine--tuning-06B6D4?style=flat-square"/>
 <img src="https://img.shields.io/badge/TTS-Neural-06B6D4?style=flat-square"/>
@@ -93,7 +93,7 @@ Workflow automation with n8n, Make and Zapier, and production serving with **Fas
 </td>
 </tr>
 <tr>
-<td><b>🤖 Automation & Agents</b></td>
+<td><b>Automation & Agents</b></td>
 <td>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
 <img src="https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white"/>
@@ -104,7 +104,7 @@ Workflow automation with n8n, Make and Zapier, and production serving with **Fas
 </td>
 </tr>
 <tr>
-<td><b>⚙️ Backend</b></td>
+<td><b>Backend</b></td>
 <td>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
@@ -114,7 +114,7 @@ Workflow automation with n8n, Make and Zapier, and production serving with **Fas
 </td>
 </tr>
 <tr>
-<td><b>☁️ Cloud & Tools</b></td>
+<td><b>Cloud & Tools</b></td>
 <td>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
 <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
@@ -127,7 +127,7 @@ Workflow automation with n8n, Make and Zapier, and production serving with **Fas
 </td>
 </tr>
 <tr>
-<td><b>💾 Databases</b></td>
+<td><b>Databases</b></td>
 <td>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
@@ -139,7 +139,7 @@ Workflow automation with n8n, Make and Zapier, and production serving with **Fas
 
 ---
 
-## 📈 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
@@ -152,14 +152,7 @@ Workflow automation with n8n, Make and Zapier, and production serving with **Fas
 
 ---
 
-## 🎓 Education
-
-**FAST – National University of Computer and Emerging Sciences, Islamabad**
-BS in Artificial Intelligence
-
----
-
-## 🤝 Let's Work Together
+## Let's Work Together
 
 I'm open to work on **speech AI, LLM fine-tuning, RAG and AI agent** projects. If you're building something in these areas, get in touch.
 
