@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,50:1E3A8A,100:06B6D4&text=Shahzaib%20Ali%20Khan&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Speech%20AI%20%C2%B7%20LLMs%20%C2%B7%20Automation&descAlignY=60&descSize=18" width="100%" alt="Shahzaib Ali Khan"/>
 
 <a href="https://github.com/ShahzaibAli-1">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=06B6D4&center=true&vCenter=true&width=720&lines=Fine-tuning+LLMs+and+speech+models+for+production;Building+real-time+voice+AI+and+calling+agents;Shipping+RAG+pipelines+and+workflow+automation;Based+in+Islamabad%2C+Pakistan" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=06B6D4&center=true&vCenter=true&width=720&lines=Fine-tuning+LLMs+and+speech+models+for+production;Building+real-time+voice+AI+and+calling+agents;Shipping+RAG+pipelines+and+workflow+automation;Based+in+Islamabad%2C+Pakistan" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -143,10 +143,13 @@ Workflow automation with n8n, Make and Zapier, and production serving with **Fas
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ShahzaibAli-1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahzaibAli-1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8&hide=jupyter%20notebook" alt="Top languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahzaibAli-1&theme=tokyonight" alt="GitHub profile and contribution graph" width="100%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShahzaibAli-1&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" alt="Contribution graph" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShahzaibAli-1&theme=tokyonight" alt="GitHub stats" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=ShahzaibAli-1&theme=tokyonight&hide_border=true&background=1A1B27" alt="GitHub streak" width="49%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShahzaibAli-1&theme=tokyonight" alt="Top languages by commit" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahzaibAli-1&theme=tokyonight" alt="Top languages by repo" width="49%"/>
 
 </div>
 
